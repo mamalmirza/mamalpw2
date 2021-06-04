@@ -1,0 +1,22 @@
+body, html, #svelte {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Montserrat', arial, monospace;
+    font-weight: normal;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+:root {
+
+    --text-color : #252525;
+    --orange-color: #FFB411;
+    --red-color: #EC2E53;
+    --blue-color: #009DD2;
+    --gray-color: #C7C7C7;
+    --active-color: #D79300;
+    --bg-color: #F3F3F3;
+}
