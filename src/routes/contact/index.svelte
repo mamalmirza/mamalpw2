@@ -141,6 +141,11 @@
     .red-border {
         border-color: #F01F1F;
     }
+    a {
+        color: var(--text-color);
+        text-decoration: unset;
+
+    }
 
 </style>
 
@@ -159,7 +164,7 @@
 
             <div>
                 <h1 class='title'> Email </h1>
-                <h2 class='detail'> mirzaei.mohammadreza1977@gmail.com </h2>
+                <h2 class='detail'> <a href='mailto:mirzaei.mohammadreza1997@gmail.com'> mirzaei.mohammadreza1997@gmail.com </a></h2>
             </div>
         </div>
         <div class='right'>
