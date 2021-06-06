@@ -11,8 +11,7 @@ body, html, #svelte {
 }
 
 :root {
-
-    --text-color : #252525;
+    --text-color: #252525;
     --orange-color: #FFB411;
     --red-color: #EC2E53;
     --blue-color: #009DD2;

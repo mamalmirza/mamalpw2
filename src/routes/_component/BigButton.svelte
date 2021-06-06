@@ -1,8 +1,12 @@
 <script>
-	export let title = 'Button Title';
-	export let color = 'white';
+  import { createEventDispatcher } from 'svelte';
 
+  export let title = 'Button Title';
+  export let color = 'white';
 
+  const dispatch = createEventDispatcher();
+
+  const submit = () => dispatch('submit');
 </script>
 <style>
     button {
@@ -31,21 +35,20 @@
     }
 
 
-
     .blue {
         background-color: var(--blue-color);
 
     }
 
-		h2 {
-			font-size: 20;
-				font-weight: 500;
-		}
+    h2 {
+        font-size: 20;
+        font-weight: 500;
+    }
 </style>
 
-<button class='{color}'>
-	<h2>
-		{title}
-	</h2>
+<button class='{color}' on:click={submit}>
+    <h2>
+        {title}
+    </h2>
 </button>
 
