@@ -126,19 +126,20 @@
     }
 
     .result-box {
-        width: 100%;
+        width: 360px;
+
         text-align: center;
-        margin: 10px 0;
-        padding: 20px;
-        border: 1px solid gray;
+        margin-top:  10px;
+        padding: 10px;
+        border: 1.5px solid gray;
     }
 
     .green-border {
-        border-color: green;
+        border-color: #05AD7B;
     }
 
     .red-border {
-        border-color: red;
+        border-color: #F01F1F;
     }
 
 </style>
