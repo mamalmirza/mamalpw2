@@ -80,8 +80,7 @@
 			<h1 class='B18'> A Bit About Me </h1>
 			<h1 class='R12'>
 				Hi. My Name is Mohammad Reaz Mirzaei.<br>
-				Curently, I am a research assistant in <a href='https://www.mixd.co.uk/' target="_blank">Dastan Lab</a> under supervision of Prof. Mehran Mehrandezh.
-			</h1>
+				Curently, I am a Msc Student at Universiy of Regina.</h1>
 
 			<div class='buttons'>
 				<a href='/resume'>
