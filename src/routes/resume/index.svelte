@@ -67,7 +67,7 @@
 
 <div class='dastan'>
 	<h4>Resume</h4>
-	<a href='https://www.mixd.co.uk/' target='_blank'>
+	<a href='https://drive.google.com/file/d/1oZWakHUgYigAP9ZCoBv41ZmsXlgRLj7v/view?usp=sharing/' target='_blank'>
 		<img src='download.png' alt='Download Icon'>
 	</a>
 </div>
