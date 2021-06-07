@@ -78,7 +78,7 @@
 <div class='group'>
 	<h1>Education</h1>
 	<div>
-		<EduDet year='2021 - Present' tl1='Univesity of Regina | ' tl2='Master of Applied Sience' />
+		<EduDet year='2021 - Present' tl1='Univesity of Regina | ' tl2='Master of Applied Science' />
 		<EduDet year='2015 - 2020' tl1='K.N. Toosi University of Technology | ' tl2='Bachelor’s Degree' />
 	</div>
 </div>
