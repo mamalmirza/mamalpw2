@@ -32,9 +32,9 @@
 </div>
 
 <ProjectDet title='Camera Dolly' cl1='Designing a camera dolly with a hydraulic manipulator.'
-						photo='Dolly.jpg'/>
+						photo='Dolly.png'/>
 <ProjectDet title='Sub-sea Wire Saw' cl1='Designing a sub-sea wire saw for sub-sea pipe maintenance.'
-						photo='Sub.jpg'/>
+						photo='Sub.png'/>
 <ProjectDet title='Motion Planner of a Mobile Robot in a Partially Observable Environment'
 						cl1='Modeling motion planning problem for a mobile robot in an unknown environment.'
 						photo='Motion.png'/>
