@@ -97,8 +97,10 @@
 <div class='group'>
 	<h1>Experince</h1>
 	<div>
+		<!--
 		<EduDet year='2021 - Present' tl1='Research Assistant'
 						cl1='Dastan Lab |' cl2='University of Regina' />
+		-->
 		<EduDet year='2019 - 2021' tl1='Research Assistant '
 						cl1='Dr. Esmaeil Najafi’s Research Group |' cl2='K. N. Toosi University of Technology' />
 		<EduDet year='2019 - 2021' tl1='Research Assistant '
