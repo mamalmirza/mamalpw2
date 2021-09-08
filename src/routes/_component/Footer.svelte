@@ -56,19 +56,21 @@
 </style>
 <footer>
 	<div class='bar'>
-
+		<!---
 		<div>
 			<h1 class='title'> Phone </h1>
-			<h2 class='detail'> +989333406081 </h2>
+			<h2 class='detail'> +1 (639) 571-6707 </h2>
 		</div>
-
+		-->
 		<div>
 			<h1 class='title'> Email </h1>
 			<h2 class='detail'> <a href='mailto:mirzaei.mohammadreza1997@gmail.com'> mirzaei.mohammadreza1997@gmail.com </a></h2>
 		</div>
 		<div>
 			<h1 class='title'> Follow Me </h1>
+			<!---
 			<img src='twitter.png' alt='twitter logo'>
+			--->
 			<a href='https://www.linkedin.com/in/mohammad-reza-mirzaei-a9a2b213b/'><img src='linkedin.png'
 																																									alt='linkedin logo'></a>
 		</div>
